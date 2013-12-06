@@ -1,7 +1,7 @@
 MakerSquare Prework
 ===========
 
-## Required
+## Instructions to Access Prework
 
 1. Go to https://github.com/makersquare?tab=members, and click "Sign In" at the top right, if you have not already.
 2. Scroll down and find yourself. Next to your name, you'll see "Publicize Membership" Click that button.
